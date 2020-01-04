@@ -1,8 +1,7 @@
 ---
 title: Home
 header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+  Hand-Picked and Hand-Crafted.
 menus:
   main:
     title: Home
@@ -10,4 +9,4 @@ menus:
 template: home
 ---
 
-Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+All of our garments and accessories are created in Vancouver, Canada from fabrics that fabu designer Leanne McElroy hand-selects all over the World
